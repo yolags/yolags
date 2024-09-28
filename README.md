@@ -1,7 +1,11 @@
-<h1 align="left">Hola 👋, Soy Yola 🙋🏻‍♀️</h1>
+<h1 align="left">Hola 👋, Soy **Yola** 🙋🏻‍♀️</h1>
 <h3 align="left">Desarrolladora web junior 💻🌱 | FullStack</h3>
 
+- 🤝🏻 En búsqueda de proyectos colaborativos para practicar
+
 - 🤓 Estoy muy interesada en **React.js**
+
+- 🤩 Me gustaría aprender Angular
 
 - 📫 Email: **yoleanny.garcia@gmail.com**
 
