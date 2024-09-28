@@ -9,6 +9,8 @@
 
 - 📫 Email: **yoleanny.garcia@gmail.com**
 
+- 📃 Mi CV: <a href="https://yolags.github.io/cv-web/">Yoleanny García 2024</a>
+
 - ⚡ Fun fact: **En la vida real soy músico 🎶**
 
 <h3 align="left">Habilidades:</h3>
