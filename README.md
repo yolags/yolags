@@ -1,7 +1,7 @@
 <h1 align="left">Hola 👋, Soy Yola 🙋🏻‍♀️</h1>
-<h3 align="left">Desarrolladora web junior 💻🌱 | FullStack</h3>
+<h3 align="left">Desarrolladora web 💻🌱 | FullStack</h3>
 
-- 🤝🏻 En búsqueda de proyectos colaborativos para practicar
+- 🤝🏻 En búsqueda de proyectos colaborativos
 
 - 🤓 Estoy muy interesada en **React.js**
 
